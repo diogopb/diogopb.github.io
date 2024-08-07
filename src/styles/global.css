@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column; /* Layout em coluna */
+  background-color: rgb(24, 24, 24);
+}
+
+body {
+  display: flex;
+  flex-direction: column; /* Layout em coluna */
+}
+
+main {
+  flex: 1; /* O conteúdo principal deve crescer para ocupar o espaço disponível */
+}
