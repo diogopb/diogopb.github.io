@@ -11,7 +11,7 @@ Este portfólio foi desenvolvido com o objetivo de apresentar meus conhecimentos
 ## 🚀 Tecnologias Utilizadas
 
 - **Vite**: Ferramenta de build rápida e leve.
-- **React** (se estiver utilizando React): Biblioteca JavaScript para construção de interfaces de usuário.
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **HTML5**: Estruturação das páginas.
 - **CSS3**: Estilização e layout responsivo.
 - **JavaScript**: Funcionalidades dinâmicas e interatividade.
