@@ -1,30 +1,17 @@
-# React + TypeScript + Vite
+# Meu Portfólio Pessoal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green)
 
-Currently, two official plugins are available:
+Este é o repositório do meu portfólio pessoal, criado utilizando [Vite](https://vitejs.dev/). Aqui você encontrará informações sobre meus projetos, habilidades e como entrar em contato comigo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎨 Visão Geral
 
-## Expanding the ESLint configuration
+Este portfólio foi desenvolvido com o objetivo de apresentar meus conhecimentos e experiências de forma clara e visualmente agradável. Utilizei HTML, CSS e JavaScript, aproveitando as vantagens do Vite para otimizar o desempenho e a experiência do usuário.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🚀 Tecnologias Utilizadas
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- **Vite**: Ferramenta de build rápida e leve.
+- **React** (se estiver utilizando React): Biblioteca JavaScript para construção de interfaces de usuário.
+- **HTML5**: Estruturação das páginas.
+- **CSS3**: Estilização e layout responsivo.
+- **JavaScript**: Funcionalidades dinâmicas e interatividade.
